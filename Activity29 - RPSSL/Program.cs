@@ -2,6 +2,7 @@
 {
     static void Main(string[] args)
     {
+
         
         for (var p1 = Throw.Spock; (int) p1 < 5; ++p1)
         {
