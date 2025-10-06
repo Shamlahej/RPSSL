@@ -67,3 +67,4 @@ class Program
         }
     }
 }
+# Jeg lavede det da det var activity i undervisningen så derfor lavede jeg ikke GUI til den, da vi kun havde fået kort introduktion til GUI. 
